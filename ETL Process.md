@@ -16,6 +16,8 @@ Beofre build the project look the orignal 建立專案之前先分析來源資�
 1.建立新的 Integration Services 專案 Create a new Integration Services project
 > 檔案>新增>專案>搜尋欄輸入 SSIS>選擇 Integration Services Project>下一步
 > 專案名稱 輸入"SSIS Test">建立
+> 點選 Package.dtsx 
+> 至右方的屬性欄 將 Name 改成 Lession1
 
 > File > New > Project > Search bar type SSIS> choose Integration Services Project >next
 > type the project name "SSIS Test" > OK
@@ -23,6 +25,8 @@ Beofre build the project look the orignal 建立專案之前先分析來源資�
 ![](/stepsphoto/MS_SSIS/Lession1/oppj001.png)
 ![](/stepsphoto/MS_SSIS/Lession1/oppj002.png)
 ![](/stepsphoto/MS_SSIS/Lession1/oppj003.png)
+![](/stepsphoto/MS_SSIS/Lession1/oppj004.png)
+![](/stepsphoto/MS_SSIS/Lession1/oppj00.png)
 
 
 
