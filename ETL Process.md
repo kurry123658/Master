@@ -26,7 +26,7 @@ Beofre build the project look the orignal 建立專案之前先分析來源資�
 ![](/stepsphoto/MS_SSIS/Lession1/oppj002.png)
 ![](/stepsphoto/MS_SSIS/Lession1/oppj003.png)
 ![](/stepsphoto/MS_SSIS/Lession1/oppj004.png)
-![](/stepsphoto/MS_SSIS/Lession1/oppj00.png)
+![](/stepsphoto/MS_SSIS/Lession1/oppj005.png)
 
 
 
