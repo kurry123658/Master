@@ -2,15 +2,15 @@
 
 
 
-1.方案總管>連線管理員>"右鍵">新增連線管理員>選FLATFILE
-2.檔案名稱>瀏覽>SampleCurrencyData.txt
-3.[一般檔案連線管理員編輯器]選 [一般]，[地區設定] 設定為 [英文 (美國)]，將 [字碼頁] 設定為 [1252]
+>1.方案總管>連線管理員>"右鍵">新增連線管理員>選FLATFILE
+>2.檔案名稱>瀏覽>SampleCurrencyData.txt
+>3.[一般檔案連線管理員編輯器]選 [一般]，[地區設定] 設定為 [英文 (美國)]，將 [字碼頁] 設定為 [1252]
 
-Solution Explorer pane > right-click on Connection Managers> select New Connection Manager
-Add SSIS Connection Manager >  FLATFILE> Add
-locate the SampleCurrencyData.txt >  Column names in the first data row 
-Flat File Connection Manager Editor > set General
-Locale to English (United States) and Code page to 1252.
+>Solution Explorer pane > right-click on Connection Managers> select New Connection Manager
+>Add SSIS Connection Manager >  FLATFILE> Add
+>locate the SampleCurrencyData.txt >  Column names in the first data row 
+>Flat File Connection Manager Editor > set General
+>Locale to English (United States) and Code page to 1252.
 
 >4.在 [一般檔案連線管理員編輯器] 對話方塊中，選取 [進階]。
 
