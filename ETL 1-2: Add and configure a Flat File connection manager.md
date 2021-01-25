@@ -28,6 +28,8 @@ Locale to English (United States) and Code page to 1252.
 
 將 [資料行 3] 名稱屬性變更為 EndOfDayRate。
 
+4.In the Flat File Connection Manager Editor dialog box, select Advanced.
+
 Change the Column 0 name property to AverageRate.
 
 Change the Column 1 name property to CurrencyID.
