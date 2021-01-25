@@ -13,7 +13,8 @@ Step1 Create a Project and Basic Package with SSIS 使用 SSIS 建立專案和�
 
 Beofre build the project look the orignal 建立專案之前先分析來源資料與目的地資料 
 
-1.建立新的 Integration Services 專案 Create a new Integration Services project
+1-1 建立新的 Integration Services 專案 Create a new Integration Services project
+
 > 檔案>新增>專案>搜尋欄輸入 SSIS>選擇 Integration Services Project>下一步
 > 專案名稱 輸入"SSIS Test">建立
 > 點選 Package.dtsx 
@@ -29,7 +30,24 @@ Beofre build the project look the orignal 建立專案之前先分析來源資�
 ![](/stepsphoto/MS_SSIS/Lession1/oppj005.png)
 
 
+1-2.新增及設定一般檔案連線管理員 Add and configure a Flat File connection
 
+
+
+>方案總管>連線管理員>"右鍵">新增連線管理員>選FLATFILE
+>檔案名稱>瀏覽>SampleCurrencyData.txt
+>[一般檔案連線管理員編輯器]選 [一般]，[地區設定] 設定為 [英文 (美國)]，將 [字碼頁] 設定為 [1252]
+
+
+![](/stepsphoto/MS_SSIS/Lession1/ssism001.png)
+![](/stepsphoto/MS_SSIS/Lession1/ssism002.png)
+![](/stepsphoto/MS_SSIS/Lession1/datac006.png)
+![](/stepsphoto/MS_SSIS/Lession1/datac007.png)
+![](/stepsphoto/MS_SSIS/Lession1/datac008.png)
+![](/stepsphoto/MS_SSIS/Lession1/datac009.png)
+![](/stepsphoto/MS_SSIS/Lession1/datac010.png)
+![](/stepsphoto/MS_SSIS/Lession1/datac011.png)
+![](/stepsphoto/MS_SSIS/Lession1/datac012.png)
 
 
 
